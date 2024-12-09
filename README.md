@@ -1,7 +1,7 @@
-# Hi, I'm Derian Ardenichson 👋
+# Hi, I'm Annanda Dharmawan 👋
 ---
 Nice to meet you! I'm currently a student at Bina Nusantara University, majoring in Game Application and Technology 🎮 </br>
-You can check and download games I've developed at [my itch page](https://wainini.itch.io)
+You can check and download games I've developed at my github
 
 *All the GIFs are linked to their respective itch.io page*
 
@@ -9,8 +9,8 @@ You can check and download games I've developed at [my itch page](https://wainin
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://bgdc.itch.io/immunopedia">Immunopedia 🦠</a></th>
-      <th width="50%"><a href="https://bgdc.itch.io/work-less-play-more">Work Less Play More 🎮</a></th>
+      <th width="50%"><a href="https://bgdc.itch.io/immunopedia">Zebratopia</a></th>
+      <th width="50%"><a href="https://bgdc.itch.io/work-less-play-more">Space Invader</a></th>
     </tr>
   </thead>
   <tbody>
@@ -19,8 +19,8 @@ You can check and download games I've developed at [my itch page](https://wainin
       <td><img src="https://github.com/wainini/wainini/blob/main/img/worklessplaymore%20400x225.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">A tower-defense game themed around human immune system. For this project, I mainly worked on the UI system. It was a nice challenge making all the UI dynamically add more stuff depending on the progress of the game. </td>
-      <td valign="text-top"">This game the first game that I got fully made and released. Work Less Play More is a 2D beat-em-up game with a unique mechanic where you need to avoid your boss attention. The game was made for Brackeys Game Jam 2022.1 with the theme "This is not real".<div></div></td>
+      <td valign="text-top">its basicly a mario game but its harder and more challanging :) </td>
+      <td valign="text-top"">this is a retro game space who breaak out all of the enemy".<div></div></td>
     </tr>
     <tr>
       <td><a href="https://bgdc.itch.io/immunopedia">Itch Page</td>
@@ -38,7 +38,7 @@ You can check and download games I've developed at [my itch page](https://wainin
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://bgdc.itch.io/keep-yourself-alive">Keep Yourself Alive 💀</a></th>
+      <th width="50%"><a href="https://bgdc.itch.io/keep-yourself-alive">Petani Pemberani</a></th>
       <th width="50%"><a href="https://bgdc.itch.io/interstellar-janitor">Interstellar Janitor 🧹</a></th>
     </tr>
   </thead>
@@ -48,7 +48,7 @@ You can check and download games I've developed at [my itch page](https://wainin
       <td><img src="https://github.com/wainini/wainini/blob/main/img/interstellar%20janitor%20%20400x225.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">This one was made for Ludum Dare 50 which theme was "Delay the inevitable". It's a simple top-down survival game. The caveat is that your HP is always decreasing, making you always on the run for the randomly spawned heals.</td>
+      <td valign="text-top">this game is aa survival game ,the game is upgrading the house and many building.</td>
       <td valign="text-top">Interstellar Janitor is my try at making tile-based movement and some dialogue system. The game itself was made for Brackeys Game Jam 2022.2 and was themed around the Jam theme "You're not alone". It's a logic puzzle game where you need to read clues scattered around the spaceship to deduce some objects that might just be an alien in disguise.<br></td>
     </tr>
     <tr>
